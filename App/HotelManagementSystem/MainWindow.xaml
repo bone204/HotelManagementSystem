@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox Margin="235,152,235,235" Text="Hello World
+                 "/>
+
+
     </Grid>
 </Window>
